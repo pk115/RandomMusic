@@ -1,0 +1,13 @@
+# Visual Studio files
+.vs/
+*.vsidx
+
+# Binaries and build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+
+# Solution files
+*.sln
